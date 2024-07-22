@@ -89,10 +89,10 @@ The physical setup of the inverted pendulum system consists of the following com
 
 ### Hardware Photos
 
-![Inverted Pendulum Setup](images\hardware_overview.jpeg)
+![Inverted Pendulum Setup](images/hardware_overview.jpeg)
 *Full view of the inverted pendulum setup*
 
-![Arduino and Motor Driver](images\electronics_motor.jpeg)
+![Arduino and Motor Driver](images/electronics_motor.jpeg)
 *Close-up of the Arduino Mega and motor driver connections*
 
 
