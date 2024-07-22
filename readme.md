@@ -24,7 +24,7 @@ This project implements a Soft Actor-Critic (SAC) reinforcement learning algorit
 ### Installation
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/Inverted-Pendulum-Reinforcement-Learning
+   git clone https://github.com/Arbaaz-Tanveer/Inverted-Pendulum-Reinforcement-Learning.git
    cd Inverted-Pendulum-Reinforcement-Learning
    ```
 
