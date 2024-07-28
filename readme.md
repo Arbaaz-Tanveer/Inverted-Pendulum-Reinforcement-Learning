@@ -14,9 +14,9 @@ This project implements a Soft Actor-Critic (SAC) reinforcement learning algorit
 
 ### Prerequisites
 - Python 3.7+
-- PyTorch
+- PyTorch(2.3.1)
 - Pygame
-- Numpy
+- Numpy(1.26.1)
 - Matplotlib
 - pyserial
 - Arduino IDE (for uploading code to the Arduino board)
@@ -30,7 +30,7 @@ This project implements a Soft Actor-Critic (SAC) reinforcement learning algorit
 
 2. Install the required Python packages:
    ```
-   pip install torch pygame numpy matplotlib pyserial
+   pip install torch==2.3.1 pygame numpy==1.26.1 matplotlib pyserial gym 
    ```
 
 3. Connect your Arduino Mega board and update the `arduino_port` in the `InvertedPendulumEnv` class (in `environment.py`) to match your system.
